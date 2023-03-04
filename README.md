@@ -1,7 +1,7 @@
 ### HAI 👋
 
 <!-- ![alt text](PutraUlung.jpg.jpg) -->
-<img src="PutraUlung.jpg.jpg" style="width: 200px; height: 300px;" />
+<img src="PutraUlung.jpg.jpg" style="width: 200px; height: 300px;border-radius: 50%" />
 
 ## Profil 😄
 Saya Putra, saya menyukai setiap hal-hal yang baru. Saya tipe pekerja keras, tekun, dan bertanggung jawab. Saya bersosialisasi dengan banyak orang, karena dengan itu saya dapat menambah banyak relasi yang berguna untuk karir saya kedepannya.
