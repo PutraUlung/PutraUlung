@@ -25,7 +25,7 @@ Saya Putra, saya menyukai setiap hal-hal yang baru. Saya tipe pekerja keras, tek
 * 2020 : PPSP PENERBANGAN PALEMBANG
 * AKTIF : UNIVERSITAS MULTI DATA PALEMBANG
 
-## 📫 Sosial Media:
+## Sosial Media 📫
 * Email : [Putra Ulung](mailto:putraulung28@gmail.com)
 * Instagram : [putra_ulung10](https://www.instagram.com/putra_ulung10/?hl=id)
 * Facebook : [Putra Ulung](https://www.facebook.com/putra.ulung.54)
