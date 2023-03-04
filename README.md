@@ -7,7 +7,7 @@ Saya Putra, saya menyukai setiap hal-hal yang baru. Saya tipe pekerja keras, tek
 * **Email** : putraulung28@gmail.com
 * **Alamat** : Jalan Rama Raya no.20 SMB II km 10,5
 
-
+#
 ## Kemampuan Pribadi ⚡
 * Public Speaking
 * Bekerja Sama dalam tim
