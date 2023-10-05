@@ -22,6 +22,7 @@ Saya Putra, saya menyukai setiap hal-hal yang baru. Saya tipe pekerja keras, tek
 * 2018-2019 : Ketua Organisasi
 * 2019-2020 : Ketua Pelaksana Event
 * 2020-2021 : Staff Bandara SMB II
+* 2022-2023 : Wakil Ketua HIMSI
 
 ## Pendidikan 🌱
 * 2016-2019 : SMA NEGERI 22 PALEMBANG
